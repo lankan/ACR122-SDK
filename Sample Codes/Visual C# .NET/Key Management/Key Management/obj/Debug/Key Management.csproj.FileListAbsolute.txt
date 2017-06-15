@@ -1,0 +1,10 @@
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Key Management\Key Management\bin\Debug\Key Management.exe
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Key Management\Key Management\bin\Debug\Key Management.pdb
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Key Management\Key Management\obj\Debug\Key Management.csprojResolveAssemblyReference.cache
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Key Management\Key Management\obj\Debug\Key_Management.frmMain.resources
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Key Management\Key Management\obj\Debug\Key_Management.MifareInit.resources
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Key Management\Key Management\obj\Debug\Key_Management.Properties.Resources.resources
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Key Management\Key Management\obj\Debug\Key_Management.SAM_INIT.resources
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Key Management\Key Management\obj\Debug\Key Management.csproj.GenerateResource.Cache
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Key Management\Key Management\obj\Debug\Key Management.exe
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Key Management\Key Management\obj\Debug\Key Management.pdb

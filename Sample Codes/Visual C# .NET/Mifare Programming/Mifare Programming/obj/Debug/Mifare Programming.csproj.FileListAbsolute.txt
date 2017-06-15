@@ -1,0 +1,9 @@
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Mifare Programming\Mifare Programming\bin\Debug\Mifare Programming.exe
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Mifare Programming\Mifare Programming\bin\Debug\Mifare Programming.pdb
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Mifare Programming\Mifare Programming\obj\Debug\Mifare Programming.csprojResolveAssemblyReference.cache
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Mifare Programming\Mifare Programming\obj\Debug\Mifare_Programming.Form1.resources
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Mifare Programming\Mifare Programming\obj\Debug\Mifare_Programming.Properties.Resources.resources
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Mifare Programming\Mifare Programming\obj\Debug\Mifare Programming.csproj.GenerateResource.Cache
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Mifare Programming\Mifare Programming\obj\Debug\Mifare Programming.exe
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Mifare Programming\Mifare Programming\obj\Debug\Mifare Programming.pdb
+C:\Users\Chanuka Weerasinghe\Desktop\ACR122-SDK\Sample Codes\Visual C# .NET\Mifare Programming\Mifare Programming\bin\Debug\Mifare Programming.exe.config
